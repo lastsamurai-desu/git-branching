@@ -1,6 +1,4 @@
 Hello Moses
-HELLO <your_name>!
-
    /|       |\
 `__\\       //__'
    ||      ||
