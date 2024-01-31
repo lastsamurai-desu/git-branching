@@ -24,8 +24,7 @@ Hello Moses
            |_||_|           |_|   |_|
           /_//_/           /_/   /_/
           
-Hi Moses
-HI <your_name>!
+GOODBYE Moses
                    .     _,
                    |`\__/ /
                    \  . .(
